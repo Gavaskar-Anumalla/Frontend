@@ -1,0 +1,20 @@
+.bg {
+    background-image:
+    url(
+    "C:\Users\2000081217\Desktop\Frontend\Usm\react-app\src\React\Images\welcome.jpg");
+    width: 1300px;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: top;   
+    }
+    .h1 {
+        padding:0;
+        margin:0;
+       }  
+       
+       
+.dropdown-center{
+    margin-top: 20px;
+}
